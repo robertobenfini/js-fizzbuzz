@@ -15,9 +15,9 @@ PROBLEMA: Scrivere un programma che stampi in console i numeri da 1 a 100, ma ch
 
 1 - creare un ciclo for che ci stampi in console i numeri da 1 a 100;
 2 - creare una condizione per cui:
-    2.1 - se il numero è multiplo solo di 3:
-        2.1.1 - stampo in console "fizz"
+    2.1 - se il numero è multiplo di 15:
+        2.1.1 - stampo in console "fizzbuzz"
     2.2 - se il numero è multiplo solo di 5:
         2.2.1 - stampo in console "buzz"
-    2.3 - se il numero è multiplo di entrambi:
-        2.3.1 - stampo in console "fizzbuzz"
+    2.3 - se il numero è multiplo di 3:
+        2.3.1 - stampo in console "fizz"
