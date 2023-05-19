@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.container{
+    background-color: rgb(7, 0, 100);
+}
+
+/*stile ul*/
+ul{
+    display: flex;
+    flex-wrap: wrap;
+    list-style-type: none;
+    justify-content: center;
+}
+
+/*stili li*/
+li{
+    background-color: rgb(0, 98, 255);
+    width: 125px;
+    height: 125px;
+    margin: 10px;
+    text-align: center;
+    padding-top: 50px;
+}
+
+/*colori li*/
+.red{
+    background-color: red;
+}
+
+.green{
+    background-color: green;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+/*stile h1*/
+h1{
+    color: white;
+    text-align: center;
+    font-size: 100px;
+}
